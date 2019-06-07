@@ -21,7 +21,7 @@ class School
     @roster[@grade].push(student_name)
   end
   
-    def grade(grade)
+  def grade(grade)
     self.roster[grade]
   end
 
