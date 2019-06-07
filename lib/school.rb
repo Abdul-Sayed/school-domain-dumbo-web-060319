@@ -5,7 +5,7 @@ class School
     @name = name
   end
 
-  ROSTER = {}
+  @@roster = {}
   
   
 end
